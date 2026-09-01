@@ -53,29 +53,6 @@ nav ul li {
     opacity: 0.9;
 }
 
-.navActions {
-    margin-left: auto;
-}
-
-.githubButton {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    padding: 10px 16px;
-    border-radius: 999px;
-    background: linear-gradient(135deg, #1ed760, #1db954);
-    color: #07130a;
-    font-weight: 700;
-    text-decoration: none;
-    box-shadow: 0 8px 20px rgba(30, 215, 96, 0.3);
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-
-.githubButton:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 12px 24px rgba(30, 215, 96, 0.45);
-}
-
 .brand img {
     width: 42px;
     padding: 0 8px;
